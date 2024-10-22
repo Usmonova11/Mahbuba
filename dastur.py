@@ -1,1 +1,1 @@
-print("Mahbuba Usmonova Axborot tizimlari va texnologiyalar yo'nalishi talabasi")
+print("Mahbuba Usmonova ")
